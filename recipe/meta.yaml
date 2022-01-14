@@ -23,11 +23,11 @@ requirements:
     - setuptools >=42
     - wheel
     - pip
-    - python >=3.6
+    - python >=3.7
   run:
-    - nltk
+    - nltk >=3.6
     - numpy
-    - python >=3.6
+    - python >=3.7
     - requests
 
 test:
