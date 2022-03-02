@@ -1,5 +1,5 @@
 {% set name = "unifunc" %}
-{% set version = "1.4.4" %}
+{% set version = "1.4.5" %}
 
 
 
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/PedroMTQ/UniFunc/archive/refs/tags/{{ version }}.tar.gz
-  sha256: 046953a73d005f69ab0bc24bfecbcc702b270dd728dfe9d55fbd551e31461b14
+  sha256: cd735aac39e0cc1e5d64cddc7d245ed9bfdc20f4d87cd16a539cd6bcffbac800
 
 build:
   number: 0
